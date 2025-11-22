@@ -56,8 +56,6 @@ All calculated columns and DAX measures are documented under `Documentation/`.
 
 ---
 
-## 📁 Repository Structure
-
 ## 📊 Power BI Report Pages
 
 The Power BI dashboard contains **6 analytical pages**:
